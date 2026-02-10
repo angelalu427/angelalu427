@@ -13,5 +13,5 @@ I'm a full-stack software engineer with a passion for building AI-powered system
 
 ## About Me
 - 3+ years of experience in the Python and JavaScript ecosystems
-- Hands-on experience with cloud platforms such as AWS and DigitalOcean, infrastructure-as-code (AWS CDK), applied AI, and LLMs
+- Hands-on experience with cloud platforms such as AWS and DigitalOcean, and applied AI
 - Humanities background and substantial client-facing and product-related experience, with a unique blend of humanities insight and technical expertise
